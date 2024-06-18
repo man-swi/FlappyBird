@@ -1,6 +1,10 @@
 
 # Space Flappy Bird App
 
+##Preview
+![Screenshot 2024-06-17 224424](https://github.com/man-swi/FlappyBird/assets/133538621/f60bb998-05e4-4087-b5e0-1b16cd101e56)
+
+
 ## Description
 **Space Flappy Bird** is an exciting adaptation of the classic Flappy Bird game, set in a captivating space-themed environment. Navigate your rocket through a futuristic cityscape, avoiding obstacles to achieve the highest score. Built using Python with Pygame and Tkinter, this game offers you nostalgic gameplay.
 
